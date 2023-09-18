@@ -1,0 +1,6 @@
+{
+  "extends": ["progressive-web-apps"],
+  "hints": {
+    "x-content-type-options": "error"
+  }
+}
